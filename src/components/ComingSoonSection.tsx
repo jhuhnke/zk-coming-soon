@@ -35,7 +35,7 @@ const ComingSoonSection: FunctionComponent = () => {
     <div className={styles.comingSoonSection8}>
       <div className={styles.comingSoonSection8Item} />
       <div className={styles.comingSoonSection8Inner} />
-      <b className={styles.logo}>zkReputation</b>
+      <b className={styles.logo}>zkReputation <span className={styles.tagline}>Unlock fair airdrops, secure credit, and compliant DeFi</span></b>
       <div className={styles.comingSoon}>Coming soon</div>
       <div className={styles.getNotifiedWhenContainer}>
         <p className={styles.getNotified}>GET NOTIFIED</p>

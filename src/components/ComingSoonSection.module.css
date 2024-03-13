@@ -145,3 +145,15 @@
     font-weight: bold; 
     text-transform: uppercase; 
 }
+.tagline {
+  color: black; 
+  font-size: 0.8em; 
+  display: block; 
+  position: absolute; 
+  top: 100%; 
+  left: 0; 
+  white-space: nowrap; 
+  overflow: visible; 
+  text-overflow: ellipsis; 
+  max-width: 100%;
+}
