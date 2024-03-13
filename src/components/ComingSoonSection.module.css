@@ -1,0 +1,147 @@
+.comingSoonSection8Child,
+.comingSoonSection8Item {
+  position: absolute;
+  width: 1440px;
+  height: 845px;
+}
+.comingSoonSection8Child {
+  object-fit: cover;
+}
+.comingSoonSection8Item {
+  background: linear-gradient(90deg, #00f5a0, #00d9f5);
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.comingSoonSection8Inner {
+  position: absolute;
+  top: 80px;
+  left: 135px;
+  border-radius: 36px;
+  background-color: #f8f8f8;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 1170px;
+  height: 685px;
+}
+.comingSoon,
+.logo {
+  position: absolute;
+  left: calc(50% - 521px);
+}
+.logo {
+  top: 144px;
+  font-family: var(--font-product-sans);
+}
+.comingSoon {
+  top: 270px;
+  font-size: 24px;
+  font-weight: 500;
+  color: var(--color-darkgray);
+  text-align: left;
+}
+.getNotified {
+  margin: 0;
+}
+.getNotifiedWhenContainer {
+  position: absolute;
+  top: 322px;
+  left: calc(50% - 521px);
+  font-size: 64px;
+  line-height: 85px;
+  color: #2d2d2d;
+  text-align: left;
+}
+.subscribe {
+  position: relative;
+  line-height: 30px;
+}
+.subscribeWrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-mediumslateblue);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 15px 35px;
+}
+.button,
+.groupChild {
+  position: absolute;
+  top: 0;
+  left: 294px;
+  width: 157px;
+  height: 60px;
+}
+.groupChild {
+  left: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--white);
+  box-shadow: 0 20px 70px rgba(0, 39, 96, 0.12);
+  width: 278px;
+}
+.enterYourEmail {
+  position: absolute;
+  top: 15px;
+  left: 21px;
+  line-height: 30px;
+  font-weight: 500;
+}
+.bar,
+.rectangleParent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 278px;
+  height: 60px;
+  color: var(--color-darkgray);
+}
+.bar {
+  top: 613px;
+  left: calc(50% - 521px);
+  width: 451px;
+  font-size: var(--font-size-lg);
+  color: var(--white);
+}
+.businessmanExcitedToLaunch {
+  position: absolute;
+  top: 194px;
+  left: calc(53%);
+  width: 512px;
+  height: 512px;
+  overflow: hidden;
+  object-fit: contain;
+}
+.comingSoonSection8 {
+  width: 100%;
+  position: relative;
+  height: 845px;
+  overflow: hidden;
+  text-align: center;
+  font-size: 36px;
+  color: var(--color-mediumslateblue);
+  font-family: var(--font-tt-hoves);
+}
+.enterYourEmailInput {
+    width: 100%; 
+    padding: 10px 15px; 
+    border-radius: var(--br-5xs); 
+    border: none; 
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px; 
+}
+.subscribeButton {
+    width: 100%; 
+    padding: 10px 15px; 
+    border-radius: var(--br-5xs); 
+    background-color: var(--color-mediumslateblue); 
+    color: white; 
+    border: none; 
+    cursor: pointer; 
+    font-weight: bold; 
+    text-transform: uppercase; 
+}

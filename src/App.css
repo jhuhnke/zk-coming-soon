@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Product+Sans:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=TT+Hoves:wght@400;500&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-tt-hoves: "TT Hoves";
+  --font-product-sans: "Product Sans";
+
+  /* font sizes */
+  --font-size-lg: 18px;
+
+  /* Colors */
+  --color-darkgray: #a7a7a7;
+  --white: #fff;
+  --color-mediumslateblue: #0067ff;
+
+  /* Border radiuses */
+  --br-5xs: 8px;
+}
